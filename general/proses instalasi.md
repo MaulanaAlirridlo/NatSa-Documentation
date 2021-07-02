@@ -32,7 +32,13 @@ Windmill Dashboard
 
 https://github.com/MaulanaAlirridlo/natsa2.0_Website
 
-# Requirements instalasi
+Requirements instalasi
 Laravel installer
 Composer
-npm installer
+
+# products
+nah disini kita bisa tau detail dari product-product tersebut
+
+# cari sawah
+nah disini anda bisa cari sawah yang anda inginkan 
+disini sudah tersedia banyak dari luas dan panjang juga sudah ada
