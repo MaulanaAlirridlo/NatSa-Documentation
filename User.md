@@ -1,16 +1,12 @@
-# hjhkh
+# Registrasi
 
-- list 
-- shgi
-- pipjns
-- hugj
+- menggunakan ktp
+- nomor telefon
+- email
 
-## hgyeg
+# login
 
-1. list
-2. hgubjd
-3. he
+1. email
+2. password
 
-![1](https://user-images.githubusercontent.com/71823706/126092275-6ec6046e-3ac6-462b-bc6c-cdf8c3910e2f.jpg)
-
-[hashsjbc](.com)
+[link](.com)
